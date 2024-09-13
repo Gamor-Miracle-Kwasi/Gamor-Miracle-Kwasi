@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gamor-Miracle-Kwasi
 - 👀 I’m interested in website  and application development
-- 🌱 I’m currently learning html,css and JavaScript 
+- 🌱 I’m currently learning html,css, JavaScript and React 
 - 💞️ I’m looking to collaborate on more projects 
 - 📫 How to reach me by email or on Whatsapp 0548902827
 - 😄 Pronouns: ...
